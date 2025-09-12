@@ -13,6 +13,6 @@ public class EvenOdd {
             System.out.println(num + " is Odd");
         }
         
-        sc.close(); 
+        
     }
 }
